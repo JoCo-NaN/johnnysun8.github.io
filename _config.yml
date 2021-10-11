@@ -1,3 +1,4 @@
 name: Jonathan Coutinho
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+paginate: 5
